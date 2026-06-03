@@ -65,11 +65,11 @@ Hier erst einmal eine Schnellübersicht über das komplette Bastelprojekt:
 
 Die einzelnen Erklärungsvideos zu den Seiten findest du unten. Ich denke, die sind ausführlich genug, so dass du selbst auf dieser Basis ein ähnliches Buch basteln kannst.
 
-### Einführung
+## Einführung
 
 In der ersten Stunde gibt es ein paar allgemeine Erklärungen von Ole und mir zu diesem Bastelprojekt. Das Materialpaket haben die SuS da bereits bekommen.
 
-### Blatt 1 (Titelseite)
+## Blatt 1 (Titelseite)
 
 Das erste Blatt ist orange (21x21cm), ich nehme Tonpapier, auf das der Kopierer in der Schule noch Drucken kann. Dieses Blatt ist beidseitig vorgedruckt (Druckvorlagen) und bietet vorne Platz für den Namen des Kindes. Zusätzlich wird benötigt:
 
@@ -78,7 +78,7 @@ Das erste Blatt ist orange (21x21cm), ich nehme Tonpapier, auf das der Kopierer 
 
 Auf der Innenseite gibt es einen Text aus dem [Entdeckerbuch](http://www.jesus-fuer-minis.de/Shop/index.php/;focus=STRATP_cm4all_com_widgets_Shop_12595031&path=?subAction=showProduct&categoryId=120199&productId=872620#STRATP_cm4all_com_widgets_Shop_12595031) von [Sabine Wiediger](http://www.jesus-fuer-minis.de/), den ich mit den SuS bereits mit Bewegungen gelernt habe.
 
-### Blatt 2 (Licht)
+## Blatt 2 (Licht)
 
 Blatt 2 ist ein schwarzes Blatt, aus dem ein keilförmiger Lichtkegel ausgeschnitten und mit Transparentpapier hinterklebt wird (Schablonen in den Druckvorlagen). Sowohl auf dem schwarzen Blatt als auch auf dem Transparentpapier habe ich die entsprechenden Dreiecke bereits vorgezeichnet.
 
@@ -86,7 +86,7 @@ Material:
 
  - weißes Transparentpapier
 
-### Blatt 3 (Land und Himmel)
+## Blatt 3 (Land und Himmel)
 
 Blatt 3 ist aus braunem Tonpapier für das Land. Der Himmel wird aus blauem Tonpapier ausgeschnitten und das Braun damit überklebt. Aus Watte werden noch Wolken aufgeklebt. Eines der Löcher (meine Blätter sind alle bereits vorgelocht) muss dann erneut durchgestochen werden.
 
@@ -97,7 +97,7 @@ Benötigtes Material:
   - Blaues Papier mit Schnittvorlage für den Himmel (Druckvorlage)
   - Watte
 
-### Blatt 4 (Pflanzen und Bäume)
+## Blatt 4 (Pflanzen und Bäume)
 
 Mein Hintergrund für Pflanzen und Bäume ist hellgrün. Gras und Laub werden mit hell- bzw. dunkelgrünen Krepppapierstreifen geklebt (einfach direkt von der Rolle ein Stück abschneiden). Den Baumstamm habe ich der Einfachheit halber mit braunem Filzstift gemalt.
 
@@ -107,7 +107,7 @@ Benötigtes Material:
  - Kreppapierstreifen hellgrün, ca. 7 cm breit
  - Streudeko Blumen
 
-### Blatt 5 (Sonne und Mond)
+## Blatt 5 (Sonne und Mond)
 
 Auf einem gelben Tonpapier habe ich Sonne und Mond basteln lassen. Der Mond und die Sonne werden dabei aus einem Stück gelben Mikrofaser-Putztuchs geschnitten. Darauf lässt sich mit Kugelschreiber oder Filzstift auch gut vorzeichnen.
 
@@ -116,7 +116,7 @@ Material:
  - Mikrofaserputztuch gelb (1/4 eines handelsüblichen Putztuchs reicht.)
  - Krepppapierstreifen gelb, ca. 0,5cm breit (direkt von der Rolle schneiden)
 
-### Blatt 6 (Vögel und Fische)
+## Blatt 6 (Vögel und Fische)
 
 Vögel und Fische haben bei mir einen hellblauen Hintergrund. Eine Wellenlinie (Filzstift) grenzt Wasser und Himmel voneinander ab. 2 Vögel werden aus Dekofedern aufgeklebt, 2 Fische aus Mikrofasertuch (s.o.) ausgeschnitten.
 
@@ -125,7 +125,7 @@ Material:
   -  4 Dekofedern (je 2 zueinander passende)
   -  Mikrofaserputztuch (1/4 eines handelsüblichen Tuchs reicht. Meines war rosa.)
 
-### Blatt 7 (Mensch)
+## Blatt 7 (Mensch)
 
 Auf einem roten Tonpapier geht es um die Erschaffung des Menschen. Dazu wird einfach ein Stück Spiegelfolie aufgeklebt.
 
@@ -133,7 +133,7 @@ Material:
 
  - Spiegelfolie
 
-### Blatt 8 (Ruhe)
+## Blatt 8 (Ruhe)
 
 Sinnbild für die Ruhe am 7. Tag ist eine Kerze, die ich in der Grundschule ja auch im Gebetskreis verwende. Das letzte Blatt ist weiß und hat auf der Rückseite einen Eindruck mit der Schöpfungsgeschichte (Druckvorlage). Die Kerze wird aus rotem Tonpapier aufgeklebt, die Flamme gemalt.
 
