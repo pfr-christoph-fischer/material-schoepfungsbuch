@@ -10,7 +10,7 @@ tags:
   - Basteln
   - Video
   - Klasse 1
-cover: cover.jpg
+cover: schoepfungsbuch.jpg
 cover_alt: Titelbild zum Material "Schöpfungsbuch".
 gallery_heading: Erklärvideos
 gallery_images:
